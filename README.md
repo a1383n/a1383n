@@ -5,7 +5,7 @@ Welcome to my profile! I'm a Android Developer from Iran. Thanks for visiting an
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amirsobhan/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=a1383n)
 
-| ![Munaf's github stats](https://github-readme-stats.vercel.app/api?username=a1383n&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a1383n&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+| ![Munaf's github stats](https://github-readme-stats.vercel.app/api?username=a1383n&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a1383n&layout=compact&hide=Shell)](https://github.com/anuraghazra/github-readme-stats)|
 |-|-|
 
 
