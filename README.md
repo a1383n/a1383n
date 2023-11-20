@@ -7,6 +7,8 @@ Welcome to my profile! I'm Back-End & Mobile Developer from Iran. Thanks for vis
 
 | ![Munaf's github stats](https://github-readme-stats.vercel.app/api?username=a1383n&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a1383n&layout=compact&hide=Shell)](https://github.com/anuraghazra/github-readme-stats)|
 |-|-|
+![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=a1383n&hide=B&theme=default)
+
 
 
 <!--
