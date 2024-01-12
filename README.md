@@ -1,7 +1,6 @@
 ### Hi there I'm Amirmohammad Nafariyeh 👋
 Welcome to my profile! I'm a Back-End Developer from Iran. Thanks for visiting and I'd love to connect!
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0e76a8?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/amirsobhan1553/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amirsobhan/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=a1383n)
 
