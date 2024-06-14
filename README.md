@@ -1,12 +1,14 @@
-### Hi there I'm Amirsobhan Nafariyeh 👋
-Welcome to my profile! I'm a Android Developer from Iran. Thanks for visiting and I'd love to connect!
+<!--
+### Hi there I'm Amirmohammad Nafariyeh 👋
+Welcome to my profile! I'm a Back-End Developer from Iran. Thanks for visiting and I'd love to connect!
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/amirsobhan1553)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amirsobhan/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=a1383n)
-
-| ![Munaf's github stats](https://github-readme-stats.vercel.app/api?username=a1383n&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a1383n&layout=compact&hide=Shell)](https://github.com/anuraghazra/github-readme-stats)|
+-->
+| ![Munaf's github stats](https://github-readme-stats.vercel.app/api?username=a1383n&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a1383n&layout=compact&langs_count=8&hide=blade,dockerfile,shell&hide_progress=true)|
 |-|-|
+![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=a1383n&hide=B&combine_all_yearly_contributions=true)
+
 
 
 <!--
